@@ -1,2 +1,2 @@
-# WELCOME TO MY REPOSITORY
->> My name is Muharromi Ali Ilham
+# Welcome to my repository
+> My name is Muharromi Ali Ilham
